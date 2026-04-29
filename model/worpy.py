@@ -1,0 +1,1 @@
+print("this is a python file in model to understand working of git and github")
