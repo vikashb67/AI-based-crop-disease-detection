@@ -180,8 +180,3 @@ Model (Pranav)
 5. Confirm saved result is visible in the History screen (Firestore document).
 
 ---
-
-If you want, I can also create a short `test_predict.sh` and a `smoke-test.ps1` to automate basic checks and a polished `README` in the `frontend/` folder — tell me and I will add them as separate files.
-
-
-Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
